@@ -1,0 +1,4 @@
+sales_id,product_name,quantity,sale_date
+1,Widget A,10,2024-01-01
+2,Widget B,5,2024-01-02
+3,Widget C,15,2024-01-03
